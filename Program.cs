@@ -81,7 +81,6 @@ namespace Lesson_6_6
                         WriteDataStaff();
                         break;
                 }
-                ReadKey();
             }
         }
     }
